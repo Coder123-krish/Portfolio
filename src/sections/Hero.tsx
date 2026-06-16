@@ -51,7 +51,7 @@ export default function Hero() {
         </div>
         <div className="flex flex-col md:flex-row gap-6 md:gap-6 mt-6 w-full md:w-auto">
           <a
-            href="https://portfolio-six-indol-pdzs2lhd0j.vercel.app/"
+            href="https://drive.google.com/file/d/1EkiE6BYrlejbd-4l4BzBeG3aXZezQLHh/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 rounded-full font-bold text-base shadow-lg hover:scale-105 hover:shadow-2xl transition-transform duration-200 border-2 border-blue-400/60 text-center whitespace-nowrap"
