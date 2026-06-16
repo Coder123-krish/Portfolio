@@ -10,7 +10,7 @@ export default function Contact() {
   const [error, setError] = useState("");
 
   // Replace with your Formspree endpoint
-  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xpqbgezw";
+  const FORMSPREE_ENDPOINT = "https://formspree.io/f/mrevdoko";
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
